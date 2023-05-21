@@ -1,0 +1,27 @@
+{
+  "name": "prismav2-crud-trial-version-1.0005-master",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.14.1",
+    "caesar-encrypt": "^0.0.2",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "git": "^0.1.5",
+    "git-init": "^1.0.0",
+    "http-errors": "~1.6.3",
+    "init": "^0.1.2",
+    "jade": "^0.29.0",
+    "morgan": "~1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "prisma": "^4.14.1"
+  }
+}
